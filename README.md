@@ -7,4 +7,5 @@ python extract_junctions.py sample.sam > sample.junctions.tsv
 # Ouptut Example
 
 | chrA | posA | strandA | chrB | posB | strandB | read_count |
+--------------------------------------------------------------
 | NC_004668.1 | 1350870 | - | NC_004668.1 | 1350900 | + | 1 |
